@@ -7,6 +7,6 @@ public class Test1 {
         System.out.println("hello git master");
         System.out.println("hello git hot-fix 1111");
         System.out.println("hello git push");
-        System.out.println("hello git pull");
+        System.out.println("hello git pull 111");
     }
 }
